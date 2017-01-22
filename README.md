@@ -5,4 +5,4 @@
 
 
 
-###详细分析请移步我的博客专栏：http://blog.csdn.net/firparks/article/category/6681963
+###详细分析请移步我的博客专栏：http://blog.csdn.net/column/details/14328.html
